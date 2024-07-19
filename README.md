@@ -1,2 +1,2 @@
-# -SecurePassphraseExporter
+# 🍪 Secure Passphrase Exporter
 Generates a unique passphrase within a js cookies exporter code.
